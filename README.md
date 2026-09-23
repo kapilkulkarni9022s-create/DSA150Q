@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0189-rotate-array) |
 | [0881-boats-to-save-people](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0881-boats-to-save-people) |
@@ -34,5 +35,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0001-two-sum) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/2956-find-common-elements-between-two-arrays) |
 <!---LeetCode Topics End-->

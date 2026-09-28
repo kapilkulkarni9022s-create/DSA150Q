@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0881-boats-to-save-people) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Math
 |  |
@@ -49,8 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0268-missing-number) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->

@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0268-missing-number) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0268-missing-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

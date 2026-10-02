@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0881-boats-to-save-people) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation

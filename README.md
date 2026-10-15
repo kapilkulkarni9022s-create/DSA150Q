@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0344-reverse-string) |
 | [0881-boats-to-save-people](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0905-sort-array-by-parity) |
 ## Greedy
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0020-valid-parentheses) |
+| [0344-reverse-string](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0389-find-the-difference) |
 ## Stack
 |  |

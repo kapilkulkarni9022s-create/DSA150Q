@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0268-missing-number) |
 | [2235-add-two-integers](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/2235-add-two-integers) |
@@ -117,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0389-find-the-difference) |
 | [0881-boats-to-save-people](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Timsort
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0389-find-the-difference) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Binary Search
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0020-valid-parentheses) |
+| [0389-find-the-difference](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
 | ------- |

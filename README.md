@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0389-find-the-difference) |
 | [0881-boats-to-save-people](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0881-boats-to-save-people) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0389-find-the-difference) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0389-find-the-difference) |
 ## Stack

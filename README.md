@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/2073-time-needed-to-buy-tickets) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3467-transform-array-by-parity](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/3467-transform-array-by-parity) |
@@ -147,4 +148,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0225-implement-stack-using-queues) |
+| [2073-time-needed-to-buy-tickets](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/2073-time-needed-to-buy-tickets) |
+## Simulation
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->

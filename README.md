@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0540-single-element-in-a-sorted-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0905-sort-array-by-parity) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0389-find-the-difference) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/1464-maximum-product-of-two-elements-in-an-array) |

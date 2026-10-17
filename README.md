@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0540-single-element-in-a-sorted-array) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0905-sort-array-by-parity) |

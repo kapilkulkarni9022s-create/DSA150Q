@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/2235-add-two-integers) |
 ## Two Pointers
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |

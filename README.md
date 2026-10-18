@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Sorting
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0389-find-the-difference) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/1021-remove-outermost-parentheses) |
 | [3894-traffic-signal-color](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/3894-traffic-signal-color) |
 ## Stack
@@ -154,11 +156,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0232-implement-queue-using-stacks) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/1021-remove-outermost-parentheses) |
 ## Heap (Priority Queue)
 |  |

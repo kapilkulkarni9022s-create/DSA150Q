@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/2073-time-needed-to-buy-tickets) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3467-transform-array-by-parity](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/3467-transform-array-by-parity) |
 ## Timsort
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0912-sort-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -189,4 +193,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->

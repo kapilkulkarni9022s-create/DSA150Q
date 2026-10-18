@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/2235-add-two-integers) |
+| [3894-traffic-signal-color](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/3894-traffic-signal-color) |
 ## Two Pointers
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/0389-find-the-difference) |
+| [3894-traffic-signal-color](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/3894-traffic-signal-color) |
 ## Stack
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/2073-time-needed-to-buy-tickets) |
+| [3894-traffic-signal-color](https://github.com/kapilkulkarni9022s-create/DSA150Q/tree/master/3894-traffic-signal-color) |
 ## Linked List
 |  |
 | ------- |
